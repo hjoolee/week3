@@ -1,3 +1,7 @@
+(to get the centering use another div around all boxes in section and center that, do that after building the page to browser width)
+
+approximate font sizes by eye
+
 Fonts
 -----
 Arial
